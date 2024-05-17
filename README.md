@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d7f3d,100:0d401e&height=150&section=header&text=&fontSize=0" width="100%"/>
 
-
 <!--
 **codethestudent/codethestudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Junyeong Ha</h1>
 <h3 align="center">I am a rookie developer who enjoys sharing knowledge and learning through experience</h3>
 

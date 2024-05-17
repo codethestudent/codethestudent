@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 &nbsp;<img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=codethestudent&show_icons=true&locale=en" alt="codethestudent" />
 </p>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=codethestudent&theme=react-light&bg_color=FFFFFF&hide_border=true&line=1d7f3d&color=0d401e" width=94%/>
-</a>
+</a> </p>
 
 
 

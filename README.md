@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1>Hi 👋, I'm Junyeong Ha</h1>
 
-<h3>I am a rookie developer who enjoys sharing knowledge and learning through experience 🌱</h3>
+<h3>I am a rookie developer who enjoys sharing knowledge and learning through experience</h3>
 
 <h3>🌱 My value</h3>
 

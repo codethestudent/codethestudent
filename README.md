@@ -75,6 +75,12 @@ Here are some ideas to get you started:
         <th style="text-align:center">Java Backend</th>
         <th style="text-align:center">NHN Academy</th>
     </tr>
+    <tr>
+        <th style="text-align:center">NHN Academy Crew(Teaching Assistance)</th>
+        <th style="text-align:center">2024.07~current</th>
+        <th style="text-align:center">Java Backend</th>
+        <th style="text-align:center">NHN Academy</th>
+    </tr>
 </table>
 <br>
 

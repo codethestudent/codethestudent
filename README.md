@@ -72,11 +72,11 @@ Here are some ideas to get you started:
     <tr>
         <th style="text-align:center">NHN Academy AI/IoT Java Backend 1기</th>
         <th style="text-align:center">2023.09~2024.06</th>
-        <th style="text-align:center">Java Backend</th>
+        <th style="text-align:center">Java Backend & AI & IoT</th>
         <th style="text-align:center">NHN Academy</th>
     </tr>
     <tr>
-        <th style="text-align:center">NHN Academy Crew(Teaching Assistance)</th>
+        <th style="text-align:center">NHN Academy Crew (TA)</th>
         <th style="text-align:center">2024.07~current</th>
         <th style="text-align:center">Java Backend</th>
         <th style="text-align:center">NHN Academy</th>

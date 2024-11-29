@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 사람과의 소통을 중요시하며, 문제를 끝까지 해결해냅니다.<br>
 어제보다 더 나은 내일을 위해 끊임없이 노력하는 개발자입니다.
-
 </br></br>
 
 <h3>📚 Languages and Tools</h3>

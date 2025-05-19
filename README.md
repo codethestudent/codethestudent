@@ -78,13 +78,21 @@ Here are some ideas to get you started:
       <a href="https://github.com/nhnacademy-aiot1-5">
         <strong>스마트 전력 관리 시스템</strong></td>
       </a>
+    <td align="center" colspan="1">
+      <a href="https://github.com/GN-TA">
+        <strong>IoT Platform</strong></td>
+      </a>
   </tr>
-
 <!-- 이미지 -->
   <tr>
     <td>
       <a href="https://github.com/nhnacademy-aiot1-5">
         <img src="https://github.com/codethestudent/codethestudent/assets/96714243/c3a26d32-64c4-481c-9777-4639e2e79816" width="200px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/GN-TA">
+          <img src="https://github.com/codethestudent/codethestudent/assets/96714243/57dfa5ae-be2d-4d7f-bc31-f878ec60c199" width="200px"/>
       </a>
     </td>
   </tr>

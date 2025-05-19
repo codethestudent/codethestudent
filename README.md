@@ -80,7 +80,7 @@ Here are some ideas to get you started:
       </a>
     <td align="center" colspan="1">
       <a href="https://github.com/GN-TA">
-        <strong>IoT Platform</strong></td>
+        <strong>오픈소스 기반 IoT Platform</strong></td>
       </a>
   </tr>
 <!-- 이미지 -->

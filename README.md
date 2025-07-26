@@ -67,12 +67,6 @@ Here are some ideas to get you started:
         <th style="text-align:center">Java Backend</th>
         <th style="text-align:center">NHN Academy</th>
     </tr>
-    <tr>
-        <th style="text-align:center">Home Protector</th>
-        <th style="text-align:center">2025.06~current</th>
-        <th style="text-align:center">building my life...</th>
-        <th style="text-align:center">Myself</th>
-    </tr>
 </table>
 <br>
 

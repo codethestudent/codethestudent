@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 <h3>🌱 My value</h3>
 
-> "소통하는 해결사"
+> "The only easy day was yesterday"
 
-사람과의 소통을 중요시하며, 문제를 끝까지 해결해냅니다.<br>
-어제보다 더 나은 내일을 위해 끊임없이 노력하는 개발자입니다.
+<br>
 </br></br>
 
 <h3>📚 Languages and Tools</h3>
 <p> 
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/java-grey?style=for-the-badge&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python"><br>
 </p>
 <br>
 

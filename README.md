@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 > "The only easy day was yesterday"
 
 <br>
-</br></br>
 
 <h3>📚 Languages and Tools</h3>
 <p> 
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/fastapi-20B2AA?style=for-the-badge&logo=fastapi">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/java-grey?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python"><br>
@@ -62,10 +62,16 @@ Here are some ideas to get you started:
         <th style="text-align:center">NHN Academy</th>
     </tr>
     <tr>
-        <th style="text-align:center">NHN Academy Crew (TA)</th>
+        <th style="text-align:center">NHN Academy Crew (INTERN)</th>
         <th style="text-align:center">2024.07~2025.06</th>
         <th style="text-align:center">Java Backend</th>
         <th style="text-align:center">NHN Academy</th>
+    </tr>
+    <tr>
+        <th style="text-align:center">Developer</th>
+        <th style="text-align:center">2025.10~current</th>
+        <th style="text-align:center">Backend</th>
+        <th style="text-align:center">NHN Dooray!</th>
     </tr>
 </table>
 <br>
@@ -76,11 +82,11 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" colspan="1">
       <a href="https://github.com/nhnacademy-aiot1-5">
-        <strong>스마트 전력 관리 시스템</strong></td>
+        <strong>Smart Energy Management System</strong></td>
       </a>
     <td align="center" colspan="1">
       <a href="https://github.com/GN-TA">
-        <strong>오픈소스 기반 IoT Platform</strong></td>
+        <strong>Open Source Based IoT Platform</strong></td>
       </a>
   </tr>
 <!-- 이미지 -->
